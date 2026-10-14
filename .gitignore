@@ -1,0 +1,22 @@
+.vs/
+*.user
+*.suo
+
+# Archivos compilados
+bin/
+obj/
+Debug/
+Release/
+x64/
+QtWidget.EE404F31/
+
+# Clon anidado del repositorio remoto
+Progra.Lab5/
+
+# Logs y temporales
+*.log
+*.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
